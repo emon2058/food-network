@@ -15,7 +15,7 @@ body{
     margin-left: 40px;
     margin-top: 80px;
 }
-.container h1{
+ h1{
     font-weight: bolder;
     font-size: 35px;
 }
@@ -52,11 +52,20 @@ body{
     padding: 0px 30px;
     padding-top: 20px;
 }
+.recipies h1{
+    font-size: large;
+}
 .recipies-image{
     height: 250px;
     border-radius: 25px;
 }
 
+.about-and-testi{
+    text-align: center;
+    background: white;
+    padding: 10px;
+    margin: 10px 80px;
+}
 .footer{
     height: 300px;
     background-color: black;
